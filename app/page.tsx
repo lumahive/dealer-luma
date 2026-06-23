@@ -16,7 +16,7 @@ export default function Home() {
 
       <section className="hero">
         <div className="hero-bg">
-          <img src="https://images.unsplash.com/photo-1503376760367-11ea8eb22230?q=80&w=2070&auto=format&fit=crop" alt="Mobil Mewah" />
+          <img src="/images/hero.png" alt="Mobil Mewah" />
         </div>
         <div className="hero-overlay"></div>
         <div className="hero-content">
@@ -32,7 +32,7 @@ export default function Home() {
           <div className="grid-cards">
             <div className="card">
               <div className="card-img-wrapper">
-                <img src="https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?q=80&w=2071&auto=format&fit=crop" alt="SUV Premium" />
+                <img src="/images/suv.png" alt="SUV Premium" />
               </div>
               <div className="card-content">
                 <h3 className="card-title">SUV Prestise</h3>
@@ -42,7 +42,7 @@ export default function Home() {
             </div>
             <div className="card">
               <div className="card-img-wrapper">
-                <img src="https://images.unsplash.com/photo-1560958089-b8a1929cea89?q=80&w=2071&auto=format&fit=crop" alt="EV Mewah" />
+                <img src="/images/ev.png" alt="EV Mewah" />
               </div>
               <div className="card-content">
                 <h3 className="card-title">Visi Elektrik</h3>
@@ -80,7 +80,7 @@ export default function Home() {
       <section className="story">
         <div className="container story-flex">
           <div className="story-image">
-            <img src="https://images.unsplash.com/photo-1562141960-96696b02650c?q=80&w=2070&auto=format&fit=crop" alt="Ruang Pamer Dealer" />
+            <img src="/images/showroom.png" alt="Ruang Pamer Dealer" />
           </div>
           <div className="story-text">
             <h2 className="section-title" style={{textAlign: 'left', marginBottom: '1.5rem'}}>Warisan <span>Kami</span></h2>
